@@ -1,0 +1,20 @@
+{
+	"author": "Uriel Hernandez",
+	"name": "app_example",
+	"description" : "Ejemplo con coffee script",
+	"version" : "0.0.0",
+	"repository":{
+		"url":""
+	},
+	"engines":{
+		"node" : "~0.8.9"
+	},
+	"dependencies":{
+		"coffee-script": "*",
+		"express" : "*",
+		"eco" : "*",
+		"consolidate": "*",
+		"socket.io": "*"
+	},
+	"devDependencies" : {}
+}
